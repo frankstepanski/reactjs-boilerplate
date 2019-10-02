@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './global_style.css';
-import HelloWorld from './views/helloWorld';
+import CompRouting from './comp_routing';
 import * as serviceWorker from './serviceWorker';
 
 //css libraries
@@ -13,7 +13,7 @@ import 'popper.js/dist/popper.min.js';
 import 'bootstrap/dist/js/bootstrap.min.js';
 
 
-ReactDOM.render(<HelloWorld />, document.getElementById('root'));
+ReactDOM.render(<CompRouting />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

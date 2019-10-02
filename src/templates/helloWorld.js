@@ -1,5 +1,9 @@
 import React from 'react';
 
+/* 
+  Hello World function to introduce the app.
+  Delete file or change its code.
+*/
 function HelloWorld() {
   return (
     <div className="container">
