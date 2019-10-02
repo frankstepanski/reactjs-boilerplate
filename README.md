@@ -32,6 +32,6 @@ See reactjs documentation about [deployment](https://facebook.github.io/create-r
 
 ## **Note:**
 
-This boilerplate comes with Bootstrap and JQuery.<br>
+This boilerplate comes with Bootstrap, JQuery, and React-Routing.<br>
 React-Redux implementation coming soon.<br>
 Thanks for using!
